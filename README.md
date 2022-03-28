@@ -4,7 +4,7 @@ helper code for git
 This repo is for learning some key git commands using commandline. 
 
 ## 1. Fast Forward Merging (folder: merging)
-a. Create a branch from main branch
+a. Create a branch from main branch \n
 b. push that new branch (don't have to push it. you can use it as temporary branch)
 c. change code in new branch
 d. commit updated code to new branch
