@@ -20,5 +20,7 @@ e. merge new branch to main branch
 
 f. push the origin main branch
 
+good resource: https://www.atlassian.com/git/tutorials/using-branches/git-merge
+
 ## 2 Three Way Merging 
 
