@@ -1,5 +1,5 @@
 # git_help
-helper code for git 
+Helper code for git (command line)
 
 This repo is for learning some key git commands using commandline. 
 
